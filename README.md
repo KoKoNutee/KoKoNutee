@@ -1,5 +1,5 @@
 ## Hi there 👋
-Soon be working in a group project
+Soon be working on a web project
 
 <!--
 **KoKoNutee/KoKoNutee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
