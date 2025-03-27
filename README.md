@@ -1,5 +1,5 @@
 ## Hi there 👋
-Soon be working on a web project
+Are you also passionate about Lifeweaver??? HOW WONDERFUL >:DDD
 
 <!--
 **KoKoNutee/KoKoNutee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
